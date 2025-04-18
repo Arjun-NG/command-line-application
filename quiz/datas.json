@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Secure Query Language",
+      "Standard Query Language"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "Which protocol is used to send emails?",
+    "options": [
+      "SMTP",
+      "FTP",
+      "HTTP",
+      "POP3"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "Which type of malware encrypts a victim's files and demands payment for decryption?",
+    "options": [
+      "Trojan",
+      "Ransomware",
+      "Worm",
+      "Spyware"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "Which programming language is commonly used for ethical hacking?",
+    "options": [
+      "Java",
+      "Python",
+      "Swift",
+      "C#"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "What is the purpose of a firewall?",
+    "options": [
+      "To speed up internet connections",
+      "To block unauthorized access",
+      "To scan for viruses",
+      "To optimize system performance"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "Which OS is widely used for penetration testing?",
+    "options": [
+      "Windows",
+      "MacOS",
+      "Kali Linux",
+      "Ubuntu"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "Which network attack involves intercepting communication between two parties?",
+    "options": [
+      "DDoS",
+      "Phishing",
+      "Man-in-the-Middle",
+      "Brute Force"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "Which of the following is an open-source SIEM tool?",
+    "options": [
+      "Splunk",
+      "Wazuh",
+      "QRadar",
+      "AlienVault USM"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "What does the acronym XSS stand for?",
+    "options": [
+      "Cross-Site Scripting",
+      "XML Site Structure",
+      "Extended Secure Session",
+      "Executable Secure Script"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "Which command is used to check open ports on a system?",
+    "options": [
+      "ping",
+      "traceroute",
+      "nmap",
+      "whois"
+    ],
+    "correct_answer": "3"
+  }
+]
